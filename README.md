@@ -3,6 +3,7 @@ Requires node js installed: https://nodejs.org/en/download/
 To run:
 ```
 npm install
+npm install react-bootstrap@0.33.0 --save
 npm start
 ```
 
